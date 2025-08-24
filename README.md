@@ -1,4 +1,4 @@
-📊 Superstore Sales Analysis Report
+# 📊 Superstore Sales Analysis Report
 
 This repository contains a Power BI sales analysis dashboard built using the Superstore dataset.
 The report provides insights into sales, profit, customers, and regional performance across multiple years.
