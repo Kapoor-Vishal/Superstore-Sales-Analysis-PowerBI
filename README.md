@@ -62,7 +62,7 @@ Canon imageRUNNER Advance Copier was the most profitable product.
 
 Some furniture subcategories like Tables recorded losses.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Data Visualization: Power BI Desktop
 
@@ -86,7 +86,7 @@ Open Superstore.pdf for the detailed report.
 
 (Optional) Open .pbix file in Power BI Desktop if included.
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Publish the dashboard on Power BI Service for live interaction.
 
@@ -98,10 +98,8 @@ Integrate with SQL for automated data refresh.
 
 Developed by Vishal Kapoor
 
-📬 Contact Information
+# 📬 Contact Information
 
 📧 Email: vishalkapoor9803@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/vishal--kapoor
-
-🐙 GitHub: Kapoor-Vishal
+🔗 LinkedIn: https://www.linkedin.com/in/vishal--kapoor/
